@@ -3,6 +3,6 @@ For this, we used a semaphore. A semaphore allows us to control access to the bu
 1)Type your amount
 2)Right click on the page and choose inspect
 3)result appear
-<a href="https://uplod.ir/tomzunfwok5x/Recording_2024-12-04_104125.mp4.htm" target=_blank>Recording_2024-12-04_104125.mp4 - 5.6 MB</a>
 
+https://uplod.ir/tomzunfwok5x/Recording_2024-12-04_104125.mp4.htm
 
