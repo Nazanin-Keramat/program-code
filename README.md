@@ -2,9 +2,12 @@ The main goal of solving this problem was to synchronize the producer and consum
 For this, we used a semaphore. A semaphore allows us to control access to the buffer and ensure that two people (producer and consumer) do not access the buffer at the same time and cause interference or data corruption. This method allows the code to run smoothly in different conditions and both processes do their work in harmony.
 
 1)Type your amount
+![image](https://github.com/user-attachments/assets/7bcf80fb-6bd4-431e-8e43-2f1a058efd73)
 
 2)Right click on the page and choose inspect
+![image](https://github.com/user-attachments/assets/d02bfbd3-eb27-46b9-9a0d-f7d2dd744464)
 
-3)result appear
+3)Open Console tab
+![Uploading image.png…]()
 
-https://up4u.ir/dl/free/169-Recording 2024-12-04 104125.mp4
+
